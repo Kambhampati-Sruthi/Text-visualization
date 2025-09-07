@@ -4,3 +4,4 @@ wordcloud
 nltk
 textblob
 spacy
+seaborn
