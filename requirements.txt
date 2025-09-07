@@ -1,0 +1,6 @@
+pdfplumber
+python-docx
+wordcloud
+nltk
+textblob
+spacy
